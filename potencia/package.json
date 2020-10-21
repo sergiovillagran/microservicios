@@ -1,0 +1,22 @@
+{
+  "name": "potencia",
+  "version": "1.0.0",
+  "description": "Servidor http para la operacion de potencia. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/github.com/sergiovillagran/microservices.git"
+  },
+  "author": "Sergio Villagran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/github.com/sergiovillagran/microservices/issues"
+  },
+  "homepage": "https://gitlab.com/github.com/sergiovillagran/microservices#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
